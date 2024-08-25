@@ -11,3 +11,7 @@
 * NumOfProducts: Cuanto mayor es el número de productos, menor es la probabilidad de abandono, creando lealtad hacia el banco.
 
 * IsActiveMember: Ser un miembro activo tiene una relación con el abandono; en este caso, una menor probabilidad del evento.
+
+* HasCrCard: El cliente cuenta con una tarjeta de crédito.
+
+* Analizamos el sector Germany aparte para poder entender el comportamiento de los clientes, siendo sumamente interesante las variables Balance y HasCrCard, por consiguiente realizamos una interaccion entre las variables y vemos una fuerte interacción e importancia estadística dentro del análisis correspondiente.
